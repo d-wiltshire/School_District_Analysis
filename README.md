@@ -34,7 +34,8 @@ add per school summary screenshot
 
 Please note that the "average reading score" and "average math score" were not adjusted between these two calculations.
 
-- How does replacing the ninth-grade scores affect the following:
+
+### How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
 
 (add screenshots of math and reading scores)
