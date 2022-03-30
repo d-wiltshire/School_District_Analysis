@@ -27,7 +27,7 @@ District Summary After Removal of THS 9th Graders
     - Average reading score for THS 10th graders: 84.25
 
     - Average math score for THS 9th graders: 83.59
-    - Average reading score for THS 10th graders: 83.09
+    - Average math score for THS 10th graders: 83.09
 
 Per School Summary Before Removal of THS 9th Graders
 ![per school summary PRE](https://user-images.githubusercontent.com/100863488/160856040-38dcd433-f053-4396-b327-70cde6dbf746.png)
@@ -35,7 +35,7 @@ Per School Summary Before Removal of THS 9th Graders
 Per School Summary After Removal of THS 9th Graders
 ![per school summary POST](https://user-images.githubusercontent.com/100863488/160856006-60fdec4c-4245-4fe8-8948-5db64d020481.png)
 
-Please note that the "average reading score" and "average math score" were not adjusted between these two calculations.
+
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   - Replacing the 9th graders' scores did not meaningfully affect Thomas High School's performance relative to the other schools.
@@ -56,6 +56,7 @@ Math scores by grade:
 Reading scores by grade:
 
 ![reading scores by grade](https://user-images.githubusercontent.com/100863488/160856462-b202c837-15a1-4bdf-8d2c-5dd83b3ca4cb.png)
+
 
   - **Scores by school spending**
     - Replacing the 9th graders' scores did not meaningfully affect Thomas High School's performance relative to the other schools. Thomas High School falls in the $631-$645 "spending per student bin," so between the initial analysis and the analysis omitting THS 9th graders, we would expect to see change only in that bin. The changes in scores are minimal.
