@@ -1,6 +1,6 @@
 # School_District_Analysis
 
-## Overview of the school district analysis: Explain the purpose of this analysis. 
+## Overview
 
 The purpose of this challenge was to determine the extent to which the 9th grade scores from Thomas High School were disproportionately affecting the overall scores for that school and district. To accomplish this, we replaced all Thomas High School scores with scores from only 10th-12th graders at Thomas High School (i.e., substituting the 10th-12th grade scores for the complete 9th-12th grade scores), in order to identify how much the averages change by removing the 461 ninth-grade students from Thomas High School.
 
