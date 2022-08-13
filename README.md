@@ -92,7 +92,9 @@ Metrics by school type after removal of THS 9th graders:
 
 
 
-## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary
+
+**What changes were there in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs?**
 
 On the whole, the changes were minimal. The Thomas High School 9th grade scores were very similar on the whole to Thomas High School scores in other grades, so removing the 9th grade scores did not change the overall metrics significantly. 
 
