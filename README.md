@@ -2,6 +2,10 @@
 
 ## Overview
 
+This challenge involved:
+- using Python/Pandas to clean datasets of fictional student performance metrics, and
+- performing analysis on the datasets to determine whether a subset was skewing the overall data.
+
 The purpose of this challenge was to determine the extent to which the 9th grade scores from Thomas High School were disproportionately affecting the overall scores for that school and district. To accomplish this, we replaced all Thomas High School scores with scores from only 10th-12th graders at Thomas High School (i.e., substituting the 10th-12th grade scores for the complete 9th-12th grade scores), in order to identify how much the averages change by removing the 461 ninth-grade students from Thomas High School.
 
 Completing this challenge involved identifying and comparing metrics in datasets containing information regarding student performance and school performance. The datasets include the student's year in school (9th through 12th), the name of the school the student attends, and their academic performance (math and reading grades), as well as information regarding each school's type (district or charter), number of students, and total budget. After merging a dataset containing school performance with a dataset containing student performance, we were able to quantify student performance against school-based metrics like the type of school and school budget. We then removed the Thomas High School 9th grade students in order to quantify the change after removal.
